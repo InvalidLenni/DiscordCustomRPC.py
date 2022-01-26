@@ -1,5 +1,5 @@
 # DiscordCustomRPC
-Discord Custom Richpresence written in python
+Discord Custom Richpresence written in python using pypresence.
 
 
 ## Getting Started
