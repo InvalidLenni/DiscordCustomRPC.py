@@ -1,0 +1,17 @@
+name: "DiscordRPC.py"
+description: "Discord Richpresence written in python using pypresence."
+author: "InvalidLenni"
+branding:
+  icon: "bookmark"
+  color: "gray-dark"
+
+runs:
+  using: "docker"
+  image: "docker://InvalidLenni/snk:latest"
+
+
+    
+  
+
+
+    
