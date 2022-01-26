@@ -15,4 +15,4 @@ Discord Custom Richpresence written in python
 - Choose v3.5 - 3.7
 - Open the command prompt
 - Type ``pip install pypresence`` in the command prompt.
-- Download the code, navigate to the presence.py file and replace all ``[VAR]`` with your ex: details text.
+- Download the code, navigate to the basic-presence.py file and replace all ``[VAR]`` with your ex: details text.
