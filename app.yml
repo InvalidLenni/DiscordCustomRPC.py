@@ -7,7 +7,7 @@ branding:
 
 runs:
   using: "docker"
-  image: "docker://InvalidLenni/snk:latest"
+  image: "docker://InvalidLenni/discordrpc.py:latest"
 
 
     
