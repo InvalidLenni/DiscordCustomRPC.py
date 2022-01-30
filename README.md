@@ -11,8 +11,8 @@ Discord Custom Richpresence written in python using pypresence.
 
 ## Next, you need to install pypresence. You will need python 3.5 - 3.7 installed. Here are the steps:
 - Navigate to https://python.org/ if you don't have python installed yet.
-- Click "Download"
+- Click on "Download".
 - Choose v3.5 - 3.7 as version.
 - Open the command prompt
-- Type ``pip install pypresence`` in the command prompt.
+- Type ``pip install requirements.txt`` in the command prompt.
 - Download the code, navigate to the basic-presence.py file and replace all ``[VAR]`` with your ex: details text.
