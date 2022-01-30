@@ -1,0 +1,8 @@
+blank_issues_enabled: false 
+contact_links:
+  - name: Pypresence discord server
+    url: https://discord.gg/JF3kg77
+    about: Please ask and answer questions here.
+  - name: Pypresence Documentation
+    url: https://qwertyquerty.github.io/pypresence/html/index.html
+    about: Documentation of the pypresence libary.

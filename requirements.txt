@@ -1,2 +1,2 @@
 time>=3.8
-pypresence>=4.2.0
+pypresences=4.2.1
